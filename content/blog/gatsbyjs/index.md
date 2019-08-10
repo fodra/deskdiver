@@ -2,6 +2,7 @@
 title: GatsbyJS
 date: "2019-07-27T22:40:32.169Z"
 description: I switched from Jekyll to GatsbyJS static site generator.
+tags: ["web", "tech"]
 ---
 
 This is a new blogging platform GatsbyJS. Currently a work in progress. If you want to create your own blog using GatsbyJS, below are a few resources that will get you started.

@@ -4407,6 +4407,10 @@ gatsby-core-utils@^1.0.0, gatsby-core-utils@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.3.tgz#f7616192ac0b4d0fc04587d924533c3cece70980"
 
+gatsby-core-utils@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.4.tgz#098b5b2f444faadd3bc9f7e20bd0a092129882ba"
+
 gatsby-graphiql-explorer@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.2.3.tgz#fdfc6c1b8b5019df57aad025badb552e3141f6e4"
@@ -4561,9 +4565,9 @@ gatsby-remark-images@^3.1.7:
     unist-util-select "^1.5.0"
     unist-util-visit-parents "^2.0.1"
 
-gatsby-remark-prismjs@^3.3.3:
-  version "3.3.3"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-prismjs/-/gatsby-remark-prismjs-3.3.3.tgz#9bbe4650bf466e708d98b20a269c9b322ae50e5b"
+gatsby-remark-prismjs@^3.3.5:
+  version "3.3.5"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-prismjs/-/gatsby-remark-prismjs-3.3.5.tgz#0009a6677543706461516f8ab3e5cdedb9f09bd4"
   dependencies:
     "@babel/runtime" "^7.0.0"
     parse-numeric-range "^0.0.2"
@@ -4630,13 +4634,13 @@ gatsby-telemetry@^1.1.7:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
-gatsby-transformer-remark@^2.6.10:
-  version "2.6.10"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.6.10.tgz#b799615f7b5041fda6e939e85b8b6365a132c069"
+gatsby-transformer-remark@^2.6.12:
+  version "2.6.12"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.6.12.tgz#8467e0751127024204286711ae76f0dc9f574f9c"
   dependencies:
     "@babel/runtime" "^7.0.0"
     bluebird "^3.5.0"
-    gatsby-core-utils "^1.0.0"
+    gatsby-core-utils "^1.0.4"
     gray-matter "^4.0.0"
     hast-util-raw "^4.0.0"
     hast-util-to-html "^4.0.0"
@@ -4861,9 +4865,9 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-gh-pages@2.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/gh-pages/-/gh-pages-2.0.1.tgz#aefe47a43b8d9d2aa3130576b33fe95641e29a2f"
+gh-pages@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/gh-pages/-/gh-pages-2.1.1.tgz#5be70a92f9cb70404bafabd8bb149c0e9a8c264b"
   dependencies:
     async "^2.6.1"
     commander "^2.18.0"
