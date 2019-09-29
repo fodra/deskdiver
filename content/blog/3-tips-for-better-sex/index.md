@@ -44,6 +44,14 @@ For me this is a great side effect of going to the gym and lifting weights. Afte
 
 In this well rested state, I have more energy, thus performing better.
 
+## Perform better
+
+What were the noticeable difference when I do these three things?
+
+* I get stronger erections
+* I last longer (partner goes first) -- like a gentleman.
+* I recover faster, when I wake up the next day I don't feel sluggish.
+
 *This is a first for me. Am I oversharing?*
 
 *Well, I just want to help.
